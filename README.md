@@ -15,7 +15,7 @@
 
 # ESP32
 - [测试体验](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/raw/main/验证激活.mpy)
-- [24小时无限录音笔，笔丢数据不丢]
+- [无限数据录音笔，笔丢数据不丢]
 
 # ESP32-C3 4M（这个能用的ESP32的板子也能用，但ESP8266无法使用）
 - [微型Web服务器]
