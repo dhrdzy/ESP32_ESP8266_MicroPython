@@ -4,7 +4,7 @@
 
 # ESP32、ESP32-C3(4M)
 - [测试体验](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/验证激活)
-- [无存储录音笔，笔丢数据不丢](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/无存储录音笔)
+- [无存储录音笔](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/无存储录音笔)
 - [4足机器人（开发中）]
 - [6足机器人（开发中）]
 
