@@ -12,3 +12,5 @@
 - 8、激活后，无网络也可以使用！
 - 9、激活即绑定设备，重新烧录后，同一个设备无需再次付费重新激活，所以不用担心烧录导致的文件丢失而多次付费，不存在这个问题，考出的mpy文件别的未激活设备无法使用
 - [设备激活地址](http://invasion.x3322.net:82/BindMachine/)
+
+<img decoding="async" src="https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/blob/main/无存储录音笔/1.png" width="14%" hight="14%">
