@@ -13,3 +13,5 @@
 - 9、main.py中可以动态配置端口，默认配了4路，gpio_ports = [15, 16, 17, 18] Start(gpio_ports, 80)，如果你的板子支持20个你也可以配20个，支持100个你也可以配100个，然后通过触发接口直接调用即可。
 - 9、参考“调用接口说明.txt”来远程触发继电器通断电，id为第几个继电器。
 - [设备激活地址](http://invasion.x3322.net:82/BindMachine/)
+
+<img decoding="async" src="https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/blob/main/多路继电器控制器/1.png" width="14%" hight="14%"> 
