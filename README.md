@@ -6,3 +6,4 @@
 - [测试体验：0.01元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/测试体验)
 - [无存储录音笔：30元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/无存储录音笔)
 - [SD卡录音笔：30元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/SD卡录音笔)
+- [多路继电器控制器：100元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/多路继电器控制器)
