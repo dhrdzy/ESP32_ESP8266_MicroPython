@@ -7,3 +7,6 @@
 - [无存储录音笔：30元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/无存储录音笔)
 - [SD卡录音笔：30元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/SD卡录音笔)
 - [多路继电器控制器：100元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/多路继电器控制器)
+- [温度监测器_屏显版：5元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/温度监测器_屏显版)
+- [温度监测器_上传版：50元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/温度监测器_上传版)
+- [温度监测器_屏显上传版：100元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/温度监测器_屏显上传版)
