@@ -10,3 +10,6 @@
 - [温度监测器_屏显版：5元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/温度监测器_屏显版)
 - [温度监测器_上传版：50元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/温度监测器_上传版)
 - [温度监测器_屏显上传版：100元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/温度监测器_屏显上传版)
+- [气体监测器_屏显版：30元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/气体监测器_屏显版)
+- [气体监测器_上传版：50元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/气体监测器_上传版)
+- [气体监测器_屏显上传版：100元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/气体监测器_屏显上传版)
