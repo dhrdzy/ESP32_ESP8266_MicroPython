@@ -11,7 +11,7 @@
 - 6、配网成功后，界面掉线，在Thonny中可以看到连接的内网IP，打开浏览器进入该地址打开设备界面（有些模块有，有些没有）
 - 7、Wifi连接成功后，根据Thonny中的提示进行设备激活即可，激活后，重启设备即可正常使用
 - 8、激活即绑定设备，重新烧录后，同一个设备无需再次付费重新激活，所以不用担心烧录导致的文件丢失而多次付费，不存在这个问题，考出的mpy文件别的未激活设备无法使用
-- 9、main.py中可以动态配置Name、gpio、传输地址、。
+- 9、main.py中可以动态配置Name、gpio、传输地址，输出口接到板子上，将端口号配置到main.py中的gpio那里即可。
 - [设备激活地址](http://invasion.x3322.net:82/BindMachine/)
 
 <img decoding="async" src="https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/blob/main/人体红外感应_上传版/1.jpg" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/blob/main/人体红外感应_上传版/2.jpg" width="14%" hight="14%"> 
