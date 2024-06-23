@@ -14,3 +14,4 @@
 - [气体监测器_上传版：50元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/气体监测器_上传版)
 - [气体监测器_屏显上传版：100元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/气体监测器_屏显上传版)
 - [人体红外感应_上传版：50元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/人体红外感应_上传版)
+- [红外体温枪_个人版：20元](https://github.com/dhrdzy/ESP32_ESP8266_MicroPython/tree/main/红外体温枪_个人版)
